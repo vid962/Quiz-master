@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+        <string name="correctAnswer">two</string>
+        <string name="submit_message">Thank you \ </string>
+        <string name="name"> </string>
+        <string name="submit_message2">Your points:  \ </string>
+
+    <string name="submit_button">SUBMIT </string>
+    <string name="hint_nz">New Zealand </string>
+    <string name="introduction">Welcome in New Zealand QUIZ</string>
+    <string name="introductionDetails">* Quiz contains 10 questions. You can earn up to 100 points. Good luck !! </string>
+
+        <string name="firs_question">Question 1.\nWhat is the capitol of NZ?</string>
+        <string name="first_q_answer_a">Auckland</string>
+        <string name="first_q_answer_b">Wellington</string>
+        <string name="first_q_answer_c">Christchurch</string>
+        <string name="first_q_answer_d">Dunedin</string>
+
+    <string name="second_question">Question 2.\nWhich mountain is the highest peak in NZ?</string>
+    <string name="second_q_answer_a">Aconcagua</string>
+    <string name="second_q_answer_b"> Mckinley</string>
+    <string name="second_q_answer_c">Carstensz Pyramid</string>
+    <string name="second_q_answer_d"> Mt Cook</string>
+
+        <string name="third_question">Question 3.\nWhich countries are the main wool manufacturer in the world? (2) </string>
+        <string name="third_q_answer_a">Chile</string>
+        <string name="third_q_answer_b"> Australia</string>
+        <string name="third_q_answer_c">Poland </string>
+        <string name="third_q_answer_d"> New Zealand </string>
+
+    <string name="fourth_question">Question 4.\nHow many main islands make up New Zealand </string>
+    <string name="hint"> (two, three, four..) </string>
+
+        <string name="fifth_question">Question 5.\nThe population of NZ is roughly... </string>
+        <string name="fifth_q_answer_a">2mln</string>
+        <string name="fifth_q_answer_b"> 4mln</string>
+        <string name="fifth_q_answer_c">6mln </string>
+        <string name="fifth_q_answer_d"> 12mln </string>
+
+    <string name="sixth_question">Question 6.\nThe indigenous peoples of NZ are... </string>
+    <string name="sixth_q_answer_a">Aborigines </string>
+    <string name="sixth_q_answer_b">Komi </string>
+    <string name="sixth_q_answer_c">Huli</string>
+    <string name="sixth_q_answer_d">Maori </string>
+
+        <string name="seventh_question">Question 7.\nWhat constellation features on NZ flag? </string>
+        <string name="seventh_answer_a">The Southern Cross </string>
+        <string name="seventh_answer_b">Orion </string>
+        <string name="seventh_answer_c">Centaurus</string>
+        <string name="seventh_answer_d">The Big Dipper </string>
+
+    <string name="eighth_question">Question 8.\nWhat is the unique native animal to NZ </string>
+    <string name="eighth_answer_a">Kangaroo </string>
+    <string name="eighth_answer_b">Okapi </string>
+    <string name="eighth_answer_c">Kiwi</string>
+    <string name="eighth_answer_d">Liger  </string>
+
+        <string name="ninth_question">Question 9.\n What is the national sport of NZ ? </string>
+        <string name="ninth_answer_a">Rugby </string>
+        <string name="ninth_answer_b">Baseball </string>
+        <string name="ninth_answer_c">Football</string>
+        <string name="ninth_answer_d">Cricket  </string>
+
+
+</resources>
+
